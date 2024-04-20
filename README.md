@@ -10,7 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=databuhm)](https://github.com/anuraghazra/github-readme-stats)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={databuhm}&theme=blue-green)
+
 
 <!--
 **databuhm/databuhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
