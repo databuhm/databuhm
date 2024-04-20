@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={databuhm}&theme=blue-green)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={databuhm}&show_icons-true&theme=blue-green)
 
 
 <!--
