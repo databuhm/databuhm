@@ -8,10 +8,7 @@
 
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)
-
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username={databuhm}&show_icons-true&theme=blue-green)
-
+![TopLangs](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)
 
 <!--
 **databuhm/databuhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
