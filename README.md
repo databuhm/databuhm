@@ -31,7 +31,7 @@ If you want to get in touch, feel free to reach out to me on Telegram.
 
 
 ## GitHub Stats
-<!--![TopLangs](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)-->
+<!--[TopLangs](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)-->
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=databuhm&theme=blue-green&show_icons=true" width="42%" />
 </a>
