@@ -25,8 +25,9 @@ If you want to get in touch, feel free to reach out to me on Telegram.
 ![AirFlow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### OS
+### OS:
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 ## GitHub Stats
 ![TopLangs](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)
