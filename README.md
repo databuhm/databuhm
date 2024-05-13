@@ -15,7 +15,7 @@
 * 🌐 Web3.0 Technologies: Deep diving into blockchain technologies like smart contracts and a keen interest in evolving information security measures.
 
 ### Connect with Me:
-If you want to get in touch, feel free to reach out to me on Telegram.
+If you want to get in touch, feel free to reach out to me on Telegram.<br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Languages and Tools
