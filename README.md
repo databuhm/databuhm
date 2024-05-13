@@ -22,6 +22,8 @@ If you want to get in touch, feel free to reach out to me on Telegram.
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+---
+
 ![TopLangs](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatabuhm&count_bg=%23090908&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
