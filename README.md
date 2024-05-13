@@ -33,7 +33,7 @@ If you want to get in touch, feel free to reach out to me on Telegram.
 ## GitHub Stats
 <!--![TopLangs](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)-->
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=databuhm&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=databuhm&theme=blue-green&show_icons=true" width="42%" />
 </a>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdatabuhm&count_bg=%23090908&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
