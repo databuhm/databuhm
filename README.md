@@ -28,11 +28,8 @@ If you want to get in touch, feel free to reach out to me on Telegram.
 ### OS:
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
-
-## GitHub Stats
 <!--[TopLangs](https://github-readme-stats.vercel.app/api?username=databuhm&show_icons=true&theme=blue-green)-->
-<a href="s">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=databuhm&exclude_repo=dkssud8150.github.io&layout=compact&theme=blue-green" />
 </a>
 
