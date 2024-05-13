@@ -12,7 +12,7 @@
 * 🔍 Statistical Analysis: Specializing in causal inference and comprehensive data examination.
 * 🌐 Web3.0 Technologies: Deep diving into blockchain technologies like smart contracts and a keen interest in evolving information security measures.
 
-### Connect with Me
+### Connect with Me:
 If you want to get in touch, feel free to reach out to me on Telegram.
 
 ## Languages and Tools
