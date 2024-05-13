@@ -16,6 +16,7 @@
 
 ### Connect with Me:
 If you want to get in touch, feel free to reach out to me on Telegram.
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## Languages and Tools
 ### Languages:
