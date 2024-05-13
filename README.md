@@ -2,6 +2,20 @@
 
 ### Hi there 👋
 
+### About Me:
+🚀 Welcome to my GitHub! As a passionate Data and Analytics Engineer, I'm deeply committed to advancing the field of data engineering. I specialize in causal inference and the design of efficient data architectures.
+
+### Academic Background:
+📚 Statistics(B.E.) and Financial Mathematics(M.S.): Trained in statistical reasoning and advanced financial concepts through focused academic studies.
+
+### Key Interests:
+📊 Data Engineering: Building and maintaining sophisticated data pipelines and data warehouses.
+🔍 Statistical Analysis: Specializing in causal inference and comprehensive data examination.
+🌐 Web3.0 Technologies: Deep diving into blockchain technologies like smart contracts and a keen interest in evolving information security measures.
+
+### Connect with Me
+If you want to get in touch, feel free to reach out to me on Telegram.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AirFlow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
