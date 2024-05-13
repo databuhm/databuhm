@@ -10,7 +10,9 @@
 
 ### Key Interests:
 📊 Data Engineering: Building and maintaining sophisticated data pipelines and data warehouses.
+
 🔍 Statistical Analysis: Specializing in causal inference and comprehensive data examination.
+
 🌐 Web3.0 Technologies: Deep diving into blockchain technologies like smart contracts and a keen interest in evolving information security measures.
 
 ### Connect with Me
