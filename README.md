@@ -17,8 +17,9 @@
 ### Connect with Me:
 If you want to get in touch, feel free to reach out to me on Telegram.<br>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<br>
 
-<br>## Languages and Tools
+## Languages and Tools
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
