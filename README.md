@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 ### About Me:
-🚀 Welcome to my GitHub! I am an enthusiastic Data and Analytics Engineer who enjoys delving into data engineering and causal analysis. My work mainly focuses on enhancing data processing and infrastructure efficiency.
+🚀 Welcome to my GitHub! I am an enthusiastic Data Analytics Engineer who enjoys delving into data engineering and causal analysis. My work mainly focuses on enhancing data processing and infrastructure efficiency.
 
 ### Academic Background:
 📚 Statistics(B.E.) and Financial Mathematics(M.S.): Trained in statistical reasoning and advanced financial concepts through focused academic studies.
