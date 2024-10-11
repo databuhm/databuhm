@@ -26,6 +26,7 @@ If you want to get in touch, feel free to reach out to me on Telegram.<br>
 
 ### Frameworks:
 ![Dash](https://img.shields.io/badge/Dash-00A3E0?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
