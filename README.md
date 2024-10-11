@@ -10,8 +10,9 @@
 📚 Statistics(B.E.) and Financial Mathematics(M.S.): Trained in statistical reasoning and advanced financial concepts through focused academic studies.
 
 ### Key Interests:
-* 📊 Data Engineering: Building and maintaining sophisticated data pipelines and data warehouses.
-* 🔍 Statistical Analysis: Specializing in causal inference and comprehensive data examination.
+* 📊 Data Engineering: Building and maintaining sophisticated `data pipelines` and `data warehouses`.
+* 📈 Analytics Engineering: Creating efficient `data marts` and building insightful `dashboards` for data-driven decision making.
+* 🔍 Statistical Analysis: Specializing in `causal inference` and comprehensive data examination.
 * 🌐 Web3.0 Technologies: Deep diving into blockchain technologies like smart contracts and a keen interest in evolving information security measures.
 
 ### Connect with Me:
